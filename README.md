@@ -1,6 +1,6 @@
 #Disclaimer: This project is in no way authorized or supported by Twilio Inc
 
-Visit them at <www.twilio.com>
+Visit Twilio at www.twilio.com
 
 ## What's this about?
 
